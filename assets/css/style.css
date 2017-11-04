@@ -1,0 +1,21 @@
+.title{
+	height:350px;
+	width:85%;
+	margin-left:0;
+	float:left;
+	padding-left:165px;
+
+}
+
+.jumbo{
+	width:1140px;
+	height:465px; 
+	position:absolute;	
+}
+.logo{
+	position:relative;	
+	margin:50px;
+	height:100px;
+	width:450px;
+
+}
