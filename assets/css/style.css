@@ -9,7 +9,7 @@
 
 .jumbo{
 	width:1140px;
-	height:465px; 
+	height:395px; 
 	position:absolute;	
 }
 .logo{
@@ -17,5 +17,26 @@
 	margin:50px;
 	height:100px;
 	width:450px;
+
+}
+
+#design{
+
+	height:250px;
+	width:380px;
+	margin-top:195px;
+	float:left;
+}
+#develop{
+	height:250px;
+	width:380px;
+	margin-top:195px;
+
+}
+#standout{
+	height:250px;
+	width:380px;
+	margin-top:195px;
+	float:right;
 
 }
