@@ -14,9 +14,10 @@
 }
 .logo{
 	position:relative;	
-	margin:50px;
-	height:100px;
-	width:450px;
+	margin-top:150px;
+	margin-left:285px;
+	height:150px;
+	width:500px;
 
 }
 
@@ -24,19 +25,43 @@
 
 	height:250px;
 	width:380px;
-	margin-top:195px;
+	margin-top:95px;
 	float:left;
 }
 #develop{
 	height:250px;
 	width:380px;
-	margin-top:195px;
+	margin-top:95px;
 
 }
 #standout{
 	height:250px;
 	width:380px;
-	margin-top:195px;
+	margin-top:95px;
 	float:right;
 
+}
+#socialize{
+	clear:both;
+	height:250px;
+	width:380PX;
+	margin-top:-249px;
+	float:left;
+}
+#produce{
+	height:250px;
+	width:380px;
+	margin-top:-249px;
+
+	float:left;
+
+}
+#animate{
+	height:250px;
+	width:380px;
+	margin-top:-1px;
+	float:right;
+}
+#color{
+	background-color:lightgrey;
 }
