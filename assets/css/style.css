@@ -65,3 +65,26 @@
 #color{
 	background-color:lightgrey;
 }
+
+#digitize{
+	clear:both;
+	height:250px;
+	width:380px;
+	margin-top:0px;
+	float:left;
+
+}
+#influence{
+
+height:250px;
+	width:380px;
+	margin-top:0px;
+}
+
+#share{
+	height:250px;
+	width:380px;
+	margin-top:700px;
+	float:right;
+
+}
