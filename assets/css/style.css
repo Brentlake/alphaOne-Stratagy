@@ -24,12 +24,13 @@
 
 #design{
 
-	height:250px;
-	width:380px;
+	height:244px;
+	width:381px;
 	margin-top:102px;
 	float:left;
 	position:absolute;
 }
+
 
 #white{
 	color:white;
