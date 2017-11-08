@@ -33,6 +33,11 @@
 	float:left;
 	position:absolute;
 }
+#develop{
+	height:244px;
+	width:381px;
+	margin-top:102px;
+}
 
 
 #white{
@@ -85,7 +90,7 @@
 	height:250px;
 	width:380px;
 	margin-top:0px;
-	margin-left:2ppx;
+	margin-left:2px;
 	float:left;
 
 }
@@ -114,7 +119,7 @@ clear:both;
 }
 #convert{
 	height:250px;
-	width:380px;
+	width:379px;
 	margin-top:-18px;
 	padding-bottom:15px;
 
