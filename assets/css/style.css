@@ -56,7 +56,7 @@
 
 }
 #standout{
-	height:240px;
+	height:250px;
 	width:380px;
 	margin-top:64px;
 	float:right;
@@ -81,7 +81,7 @@
 #animate{
 	height:250px;
 	width:380px;
-	margin-top:-15px;
+	margin-top:-1px;
 	margin-right:15px;
 	float:right;
 }
