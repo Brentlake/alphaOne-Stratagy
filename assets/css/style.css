@@ -27,16 +27,16 @@
 
 #design{
 
-	height:240px;
-	width:381px;
-	margin-top:105px;
+	height:250px;
+	width:380px;
+	margin-top:64px;
 	float:left;
 	position:absolute;
 }
 #develop{
 	height:244px;
 	width:381px;
-	margin-top:99px;
+	margin-top:64px;
 	margin-left:15px;
 }
 
@@ -51,14 +51,14 @@
 #develop{
 	height:250px;
 	width:380px;
-	margin-top:95px;
+	margin-top:64px;
 
 
 }
 #standout{
 	height:240px;
 	width:380px;
-	margin-top:104px;
+	margin-top:64px;
 	float:right;
 	margin-right:15px;
 }
@@ -81,7 +81,7 @@
 #animate{
 	height:250px;
 	width:380px;
-	margin-top:-1px;
+	margin-top:-15px;
 	margin-right:15px;
 	float:right;
 }
