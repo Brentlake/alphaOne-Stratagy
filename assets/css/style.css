@@ -99,18 +99,17 @@
 
 }
 #influence{
-
 height:250px;
-	width:383px;
-	margin-top:-1px;
-}
-
-#share{
-	height:250px;
 	width:380px;
 	margin-top:-1px;
 	margin-right:15px;
 	float:right;
+}
+
+#share{
+	height:250px;
+	width:383px;
+	margin-top:-1px;
 	
 }
 #communicate{
