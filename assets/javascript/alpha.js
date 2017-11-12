@@ -1,1 +1,1 @@
-alert("Thank you for visiting alphaOne Strategy we apologize for any inconvenience as we are currently updating our website for a better visitor experience. If you have any questions please email us at info@alphaonestrategy.com");
+alert("Site is currently undergoing routine maintenance. Please contact support@alphaonestrategy.com with any questions.");
