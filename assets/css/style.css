@@ -29,14 +29,14 @@
 
 	height:251px;
 	width:380px;
-	margin-top:65px;
+	margin-top:-1px;
 
 	float:left;
 	position:absolute;
 }
 #develop{
-	height:244px;
-	width:381px;
+	height:250px;
+	width:380px;
 	margin-top:64px;
 	margin-left:15px;
 }
@@ -75,8 +75,7 @@
 	height:250px;
 	width:380px;
 	margin-top:-250px;
-
-	float:left;
+	clear:both;
 
 }
 #animate{
@@ -93,7 +92,7 @@
 #digitize{
 	clear:both;
 	height:250px;
-	width:377px;
+	width:380px;
 	margin-top:0px;
 	margin-left:15px;
 	float:left;
@@ -111,12 +110,15 @@ height:250px;
 	height:250px;
 	width:380px;
 	margin-top:-1px;
+	width-left:10px;
+
+
 	
 }
 #communicate{
 
 clear:both;
-	height:250px;
+	height:249px;
 	width:380px;
 	margin-top:0px;
 	padding-bottom:15px;
@@ -124,10 +126,12 @@ clear:both;
 
 }
 #convert{
-	height:236px;
-	width:383px;
-	margin-top:-1px;
-	margin-left:-3px;
+	height:235px;
+	width:380px;
+	margin-top:0px;
+	margin-left:0px;
+	margin-bottom:15px;
+	clear:both;
 
 
 	
@@ -135,7 +139,7 @@ clear:both;
 }
 
 #analyze{
-height:250px;
+height:251px;
 	width:380px;
 	margin-top:-1px;
 	padding-bottom: 15px;
