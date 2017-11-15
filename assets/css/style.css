@@ -10,12 +10,17 @@ body{
 	padding-left:165px;
 
 }
+.logo{
+	margin-right:20px;
+}
 
 .jumbo{
 	padding-top:15px;
-	width:1140px;
+	width:940px;
 	height:395px; 
+	
 	position:absolute;	
+	margin-left:0px;
 }
 .logo{
 	position:relative;	
@@ -29,16 +34,17 @@ body{
 
 #design{
 
-	height:251px;
-	width:380px;
-	margin-top:63px;
+	height:200px;
+	width:310px;
+	margin-top:64px;
 
 	float:left;
 	position:absolute;
+	margin-left:0px;
 }
 #develop{
-	height:250px;
-	width:380px;
+	height:200px;
+	width:315px;
 	margin-top:64px;
 	margin-left:15px;
 }
@@ -49,40 +55,42 @@ body{
 	size:19px;
 	text-align:center;
 	position:relative;
+	float:left:;
 }
 	
 #develop{
-	height:250px;
-	width:380px;
+	height:200px;
+	width:315px;
 	margin-top:64px;
 
 
 }
 #standout{
-	height:250px;
-	width:380px;
+	height:200px;
+	width:315px;
 	margin-top:64px;
 	float:right;
 	margin-right:15px;
 }
 #socialize{
 	clear:both;
-	height:250px;
-	width:380PX;
-	margin-top:-249px;
+	height:200px;
+	width:315PX;
+	margin-top:-200px;
 	margin-left:15px;
 	float:left;
 }
 #produce{
-	height:250px;
-	width:380px;
-	margin-top:-1px;
+	height:200px;
+	width:310px;
+	margin-top:
+	-1px;
 	clear:both;
 
 }
 #animate{
-	height:250px;
-	width:380px;
+	height:200px;
+	width:315px;
 	margin-top:-1px;
 	margin-right:15px;
 	float:right;
@@ -93,25 +101,25 @@ body{
 
 #digitize{
 	clear:both;
-	height:250px;
-	width:380px;
+	height:200px;
+	width:315px;
 	margin-top:0px;
 	margin-left:15px;
 	float:left;
 
 }
 #influence{
-height:250px;
-	width:380px;
-	margin-top:-1px;
+height:200px;
+	width:315px;
+	margin-top:0px;
 	margin-right:15px;
 	float:right;
 }
 
 #share{
-	height:250px;
-	width:380px;
-	margin-top:-1px;
+	height:200px;
+	width:310px;
+	margin-top:0px;
 	width-left:10px;
 
 
@@ -120,17 +128,17 @@ height:250px;
 #communicate{
 
 clear:both;
-	height:249px;
-	width:380px;
+	height:200px;
+	width:315px;
 	margin-top:0px;
-	padding-bottom:15px;
+	padding-bottom:0px;
 	float:left;
 
 }
 #convert{
-	height:235px;
-	width:380px;
-	margin-top:-1px;
+	height:200px;
+	width:310px;
+	margin-top:0px;
 	margin-left:0px;
 	margin-bottom:15px;
 	clear:both;
@@ -141,14 +149,16 @@ clear:both;
 }
 
 #analyze{
-height:251px;
-	width:380px;
-	margin-top:-2px;
-	padding-bottom: 15px;
+height:200px;
+	width:315px;
+	margin-top:0px;
+	padding-bottom: 0px;
 float:right;
 
 }
 
 
 
-
+.bkrnd{
+	background:darkgrey;
+}
