@@ -1,4 +1,6 @@
-
+body{
+	background: darkgrey;
+}
 
 .title{
 	height:350px;
@@ -29,7 +31,7 @@
 
 	height:251px;
 	width:380px;
-	margin-top:-1px;
+	margin-top:63px;
 
 	float:left;
 	position:absolute;
@@ -74,7 +76,7 @@
 #produce{
 	height:250px;
 	width:380px;
-	margin-top:-250px;
+	margin-top:-1px;
 	clear:both;
 
 }
@@ -86,7 +88,7 @@
 	float:right;
 }
 #color{
-	background-color:lightgrey;
+	background-color:black;
 }
 
 #digitize{
@@ -128,7 +130,7 @@ clear:both;
 #convert{
 	height:235px;
 	width:380px;
-	margin-top:0px;
+	margin-top:-1px;
 	margin-left:0px;
 	margin-bottom:15px;
 	clear:both;
@@ -141,9 +143,12 @@ clear:both;
 #analyze{
 height:251px;
 	width:380px;
-	margin-top:-1px;
+	margin-top:-2px;
 	padding-bottom: 15px;
 float:right;
 
 }
+
+
+
 
